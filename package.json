@@ -1,0 +1,27 @@
+{
+  "name": "practice-redgreenrefactor-darren-farnsworth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerrad9/practice-redGreenRefactor-Darren-Farnsworth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nerrad9/practice-redGreenRefactor-Darren-Farnsworth/issues"
+  },
+  "homepage": "https://github.com/nerrad9/practice-redGreenRefactor-Darren-Farnsworth#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
